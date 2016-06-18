@@ -272,6 +272,9 @@ expectedTotalBytes:(int64_t)expectedTotalBytes
     NSLog(@"续传开始，当前文件从第 %zd 字节开始下载", fileOffset);
 }
 
+//提交代码错误，再次提交，编写（忽略）
+
+
 @end
 
 
